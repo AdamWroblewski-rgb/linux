@@ -29,3 +29,4 @@ Możliwe użycia:
 #### Zadanie
 
 Dowiedz się jak skopiować cały katalog wraz z zawartością. Jeśli zawiera on inne katalogi to również chcemy je skopiować. Musisz to zrobić za pomocą jednej komendy. Przegrzeb się przez odpowiedni manual :)
+sisol
