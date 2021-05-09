@@ -50,3 +50,4 @@ Wykonaj poniższe kroki w terminalu.
     ![CI on GitHub](img/ci.png)
 
 #### Powodzenia! 😊
+test
