@@ -25,3 +25,9 @@ Obejrzenie lekcji o przekierowaniach może Ci ułatwić odnalezienie właściweg
 blablabla
 blablabla
 blablabla
+lubie placki
+lubie cocacole
+duzo spie
+lubie ziemniaki
+ggg
+cos tam
