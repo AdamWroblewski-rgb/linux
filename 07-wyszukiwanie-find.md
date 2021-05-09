@@ -22,3 +22,6 @@ Czego i gdzie szuka ta komenda?
 
 Znajdź, gdzie w systemie plików leży kompilator g++ lub clang++, w zależności którego używasz.
 Obejrzenie lekcji o przekierowaniach może Ci ułatwić odnalezienie właściwego pliku.
+blablabla
+blablabla
+blablabla
